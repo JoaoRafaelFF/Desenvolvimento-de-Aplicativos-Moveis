@@ -1,0 +1,14 @@
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\bin\Debug\net6.0\EstruturaAbstractFactory.exe
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\bin\Debug\net6.0\EstruturaAbstractFactory.deps.json
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\bin\Debug\net6.0\EstruturaAbstractFactory.runtimeconfig.json
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\bin\Debug\net6.0\EstruturaAbstractFactory.dll
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\bin\Debug\net6.0\EstruturaAbstractFactory.pdb
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.AssemblyInfo.cs
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.dll
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\refint\EstruturaAbstractFactory.dll
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.pdb
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\EstruturaAbstractFactory.genruntimeconfig.cache
+C:\Users\aero engine\source\repos\EstruturaAbstractFactory\EstruturaAbstractFactory\obj\Debug\net6.0\ref\EstruturaAbstractFactory.dll
